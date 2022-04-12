@@ -1,0 +1,7 @@
+eu\mixeration\cancelmovement\module\bypass.class
+eu\mixeration\cancelmovement\events\movement.class
+eu\mixeration\cancelmovement\module\file.class
+eu\mixeration\cancelmovement\commands\admin.class
+eu\mixeration\cancelmovement\module\_user.class
+eu\mixeration\cancelmovement\module\message.class
+eu\mixeration\cancelmovement\mixeration.class

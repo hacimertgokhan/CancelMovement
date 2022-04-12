@@ -1,0 +1,11 @@
+messages:
+    no-console: 'Only in game !'
+    no-permission: '&c&lHey ! &7you don`t have a enough permission to do this !'
+
+cancel-movement:
+    locale: en
+    worlds:
+    - 'world'
+    - 'Atom'
+    - 'Skyblock'
+    - 'Spawn'

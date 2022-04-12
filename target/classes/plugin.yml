@@ -1,0 +1,10 @@
+name: CancelMovement
+version: 'stable'
+main: eu.mixeration.cancelmovement.mixeration
+prefix: CancelMovement
+load: STARTUP
+authors: [Mixeration]
+commands:
+    CancelMovement:
+        usage: /CancelMovement
+        permissions: cancelmovement.admin
